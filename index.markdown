@@ -4,7 +4,8 @@ layout: single
 ---
 
 
-Hi, I am Cagan. {: .text-center}
+Hi, I am Cagan.
 
-Currently, I am doing video coding research for Qualcomm in Munich, Germany.
+Currently, I am doing video coding research for Qualcomm in Munich, Germany. I am accumulating content in this website, including my projects, blog posts and photographs.
+
 
